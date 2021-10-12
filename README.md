@@ -11,5 +11,5 @@
 | Diventare admin nei gruppi scolastici | Y | Y | N |  | N | N | 
 | Fare OT nei gruppi extra | Y | Y | Y | Y | Y | N |
 | Fare OT nei gruppi scolastici | Y<sup>3</sup> | Y | N | N<sup>4</sup> | N | N |
-| Inviare messaggi contenente il nome di organizzazioni terze in gruppi extra | Y | Y<sup>1</sup> | N | N<sup>1</sup> | N | N |
-| Inviare messaggi sponsorizzati | Y<sup>1</sup> | N<sup>1</sup> | N | N<sup>1</sup> | N | N |
+| Inviare messaggi contenente il nome di organizzazioni terze in gruppi extra | Y | Y<sup>5</sup> | N | N<sup>6</sup> | N | N |
+| Inviare messaggi sponsorizzati | Y<sup>7</sup> | N<sup>8</sup> | N | N<sup>9</sup> | N | N |
